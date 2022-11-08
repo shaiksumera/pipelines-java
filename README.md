@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sumeraz400/demopipeline%20project/_apis/build/status/shaiksumera.pipelines-java?branchName=main)](https://dev.azure.com/sumeraz400/demopipeline%20project/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
